@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../Framework/fontawesome/css/all.css" />
+    <script src="../Framework/fontawesome/js/all.js"></script>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <nav>
+      <div class="nav-container">
+        <label for="">Brand</label>
+
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Service</a></li>
+        </ul>
+
+        <button><a href="#">Contact</a></button>
+      </div>
+    </nav>
+
+    <section class="showcase">
+      <div class="container">
+        <div class="main">
+          <h1>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
+            nisi?
+          </h1>
+          <br />
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem
+            aliquid, non sed temporibus assumenda accusamus fugiat quo facilis
+            consectetur enim?
+          </p>
+        </div>
+        <img src="../img/group.png" alt="" />
+      </div>
+    </section>
+    <section class="About">
+      <h1 class="titles">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et quo nobis
+        distinctio obcaecati incidunt impedit quidem optio autem, nihil aperiam!
+      </h1>
+      <div class="container-About">
+        <img src="../img/building.png" alt="" />
+        <div class="title">
+          <h1>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique,
+            consectetur.
+          </h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
+            quia nesciunt soluta magnam voluptatum, corporis doloribus dolores,
+            earum praesentium voluptas officia obcaecati minima aliquid debitis
+            repudiandae cum quisquam aperiam asperiores quos assumenda nisi? Sed
+            sit pariatur dolor placeat porro minus vitae fugiat est molestias
+            amet perferendis quidem nesciunt velit corporis reprehenderit ipsam
+            ea consectetur quibusdam nulla dignissimos molestiae, tempore
+            blanditiis quod itaque? Ad ullam sunt, libero natus ipsam,
+            repudiandae porro cumque, aliquam dolor quae rem iure aut alias.
+            Dolores saepe quia delectus. Ad assumenda repellat architecto, ipsam
+            animi accusantium repellendus culpa perferendis a nesciunt, iusto
+            reiciendis atque excepturi doloremque! Magnam?
+          </p>
+        </div>
+      </div>
+    </section>
+    <section class="group">
+      <h1 class="service">Services</h1>
+      <div class="card-container">
+        <div class="card">
+          <div class="card-title">
+            <h1><i class="fab fa-css3"></i></h1>
+            <h4>CSS3</h4>
+          </div>
+          <div class="card-body">
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Architecto dicta quaerat ipsa voluptas facilis, minima magni!
+              Distinctio, illo. Quasi, asperiores.
+            </p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-title">
+            <h1><i class="fas fa-code"></i></h1>
+            <h4>Coding</h4>
+          </div>
+          <div class="card-body">
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Architecto dicta quaerat ipsa voluptas facilis, minima magni!
+              Distinctio, illo. Quasi, asperiores.
+            </p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-title">
+            <h1><i class="fab fa-html5"></i></h1>
+            <h4>HTML</h4>
+          </div>
+          <div class="card-body">
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Architecto dicta quaerat ipsa voluptas facilis, minima magni!
+              Distinctio, illo. Quasi, asperiores.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="contact">
+      <h1>Contact Us</h1>
+      <div class="contact-container">
+        <div class="cards">
+          <form action="">
+            <div class="input-group">
+              <label for="name">Name</label>
+              <br />
+              <input type="text" name="name" id="name" placeholder="Name..." />
+            </div>
+            <div class="input-group">
+              <label for="email">Email</label>
+              <br />
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="Email.."
+              />
+            </div>
+            <div class="input-group">
+              <label for="description">Description</label>
+              <br />
+              <textarea name="description" id="description"></textarea>
+            </div>
+            <button class="btn" type="button">Send Request</button>
+          </form>
+        </div>
+      </div>
+      <hr />
+      <div class="map">
+        <h1>Location</h1>
+
+        <div class="maping">
+          <img
+            src="../img/data=FiwYYlKkmEJpNZ9e0bfXGV10ezVSq530aLRqE5Q3nzTYquU7p7CxSrUL-c5waUTqK_IRmMO7c9eGKP-T73mnt__T7wms_CpORgu2gjIyGS6lYOlsH2_vocP1IIR4Lb3S_bgKp4wl-kf9OPXfK4Dt-GiK27SqYl2ySBpccoLAP6YAQGJqaiP8LyXNSsp2Dv2X-fttl2QazWfCj.png"
+            alt=""
+          />
+          <div class="link">
+            <br />
+            <br />
+            <a
+              href="https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1pMtBx4W_t9Ii--BTxT6fZIQudzw&ll=-5.466498922066859%2C105.01318450000002&z=7"
+              class=""
+              >https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1pMtBx4W_t9Ii--BTxT6fZIQudzw&ll=-5.466498922066859%2C105.01318450000002&z=7</a
+            >
+            <br />
+            <br />
+          </div>
+        </div>
+      </div>
+      <hr />
+    </section>
+    <footer>
+      <div class="footer-container">
+        <div class="main-content">
+          <label for=""
+            ><i class="fas fa-industry fa-5x"></i>
+            <span class="our">Our </span>
+            <span class="word"> Industry</span></label
+          >
+          <br />
+          <br />
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
+            animi quam est, modi quaerat commodi nam sint rem, eius et doloribus
+            explicabo delectus? Nesciunt aperiam, debitis perferendis velit
+            earum porro nemo magnam rerum cumque dolore dolorem minus enim
+            delectus quisquam necessitatibus doloribus soluta suscipit dicta
+            nam. Aliquid quis amet nostrum necessitatibus tempora,
+            exercitationem eveniet possimus iusto quaerat distinctio. Alias
+            quasi blanditiis ea molestias dolores, labore pariatur architecto
+          </p>
+          <div class="social">
+            <ul>
+              <li>
+                <a href=""><i class="fab fa-instagram fa-4x"></i></a>
+              </li>
+              <li>
+                <a href=""><i class="fab fa-github fa-4x"></i></a>
+              </li>
+              <li>
+                <a href=""><i class="fab fa-twitter fa-4x"></i></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="links">
+          <ul>
+            <li class="active"><a href="" class="active">Product</a></li>
+            <li><a href="">Home 2</a></li>
+            <li><a href="">Home 3</a></li>
+            <li><a href="">Home 4</a></li>
+          </ul>
+          <ul>
+            <li class="active"><a href="" class="active">Useful Link</a></li>
+            <li><a href="">Home 2</a></li>
+            <li><a href="">Home 3</a></li>
+            <li><a href="">Home 4</a></li>
+          </ul>
+          <ul>
+            <li class="active"><a href="" class="active">PlainText</a></li>
+            <li><a href="">Home 2</a></li>
+            <li><a href="">Home 3</a></li>
+            <li><a href="">Home 4</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="final-footer">
+        <h1>&copy; 2022 Copyright by BIL.<span class="s">S</span></h1>
+      </div>
+    </footer>
+  </body>
+</html>
